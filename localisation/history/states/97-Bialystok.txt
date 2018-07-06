@@ -1,0 +1,28 @@
+
+state={
+	id=97
+	name="STATE_97"
+
+	history={
+		owner = LIT
+		victory_points = {
+			3393 1 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			air_base = 3
+
+		}
+		add_core_of = LIT
+		add_core_of = BLR
+
+	}
+
+	provinces={
+		1 400 3254 3272 6281 6407 11312 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	state_category = rural
+}

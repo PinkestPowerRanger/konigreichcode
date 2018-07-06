@@ -1,0 +1,14 @@
+state={
+	id=768
+	name="STATE_768"
+	state_category = rural
+	provinces={
+		3700 9661 11630 
+	}
+	history = {
+	add_core_by = AUS
+	owner = AUS
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}
