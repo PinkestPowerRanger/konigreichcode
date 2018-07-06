@@ -1,0 +1,18 @@
+state={
+	id=776
+	name="STATE_776"
+	provinces={
+		543 557 5283 7857 11525 
+	}
+	history={
+		owner = AUS
+		buildings = {
+			infrastructure = 8
+			air_base = 1
+
+		}
+		add_core_of = AUS
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}
