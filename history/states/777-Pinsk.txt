@@ -6,4 +6,13 @@ state={
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
+	history={
+		owner = BLR
+		add_core_of = BLR
+		buildings = {
+			infrastructure = 6
+			air_base = 3
+
+		}
+	}
 }
