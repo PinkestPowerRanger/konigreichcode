@@ -1,0 +1,23 @@
+######################
+#####Yes I made This##
+######################
+state={
+	id=778
+	name="0CCULTS LOVE SHACK ;)"
+	provinces={
+		6281 11312 6407 3272
+	}
+	manpower=1500000
+	buildings_max_level_factor=1.000
+	history={
+		owner = LIT
+		add_core_of = LIT
+		add_core_of = GER
+		add_core_of = POL
+		buildings = {
+			infrastructure = 6
+			air_base = 3
+
+		}
+	}
+}
