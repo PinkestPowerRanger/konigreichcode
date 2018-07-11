@@ -3,7 +3,7 @@
 ######################
 state={
 	id=778
-	name="0CCULTS LOVE SHACK ;)"
+	name="Kauen"
 	provinces={
 		6281 11312 6407 3272
 	}
